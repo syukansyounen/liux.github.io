@@ -383,10 +383,10 @@ pre .deletion {
   border-bottom: 5px solid #222;
 }
 .blog-title:hover {
-  border-color: #0077D9;
+  border-color: #33a6b8;
 }
 .blog-title:hover a {
-  color: #0077D9;
+  color: #33a6b8;
 }
 .blog-title a {
   position: relative;
